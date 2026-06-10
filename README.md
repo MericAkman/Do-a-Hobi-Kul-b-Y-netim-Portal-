@@ -20,9 +20,9 @@ Uygulama, temel veri yönetimi (CRUD) işlemlerini ve güvenli üye oturumların
 
 ## 💻 Teknik Özellikler & Güvenlik
 
-* **Arka Uç:** Tamamen yalın (pure) **PHP 8+** kullanıldı; harici bir framework kullanılmadı.
+* **Backend:** Tamamen yalın (pure) **PHP 8+** kullanıldı; harici bir framework kullanılmadı.
 * **Veritabanı:** **MySQL/MariaDB** ile ilişkisel bir yapı kuruldu.
-* **Ön Uç:** **Bootstrap 5** kütüphanesi üzerine özelleştirilmiş 'Coral' (Mercan) renk teması ve Flexbox (esnek kutu) mimarisi uygulandı.
+* **Frontend:** **Bootstrap 5** kütüphanesi üzerine özelleştirilmiş 'Coral' (Mercan) renk teması ve Flexbox (esnek kutu) mimarisi uygulandı.
 * **PDO Mimarisi:** Tüm veritabanı bağlantıları **PDO (PHP Data Objects)** üzerinden sağlandı.
 * **Güvenlik:** SQL Injection saldırılarını önlemek amacıyla tüm sorgularda **'Prepared Statements' (Hazırlanmış İfadeler)** yapısı kullanıldı. Şifreler veritabanına `password_hash()` ile kriptolanarak kaydedildi.
 

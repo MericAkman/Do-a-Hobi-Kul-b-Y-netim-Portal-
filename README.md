@@ -49,4 +49,4 @@ Veritabanımızda iki ilişkisel tablo bulunmaktadır:
 
 ## 👨‍💻 Geliştirici
 
-* **Meriç Akman** - [GitHub Profil Linkiniz](https://github.com/MericAkman)
+* **Meriç Akman** - [**GitHub Profili**](https://github.com/MericAkman)

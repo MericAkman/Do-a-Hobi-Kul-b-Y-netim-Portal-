@@ -36,16 +36,16 @@ Veritabanımızda iki ilişkisel tablo bulunmaktadır:
 ## 🖼 Arayüz Görselleri (Galeri)
 
 ### 1. Sisteme Giriş
-<img src="web_1.png" alt="Sisteme Gir" width="400"> <img src="web_2.png" alt="Yeni Üye Ol" width="400">
+<img src="web_1.png" alt="Sisteme Giriş 1" width="400"> <img src="web_2.png" alt="Sisteme Giriş 2" width="400">
 
 ### 2. Veri Girişi
-<img src="web_5.png" alt="Yeni Faaliyet Formu" width="400"> <img src="web_7.png" alt="Başarı Bildirimi" width="400"> <img src="web_3.png" alt="Faaliyet Portalı - Liste" width="400">
+<img src="web_3.png" alt="Veri Girişi 1" width="400"> <img src="web_4.png" alt="Veri Girişi 2" width="400">
 
 ### 3. Veri Güncelleme
-<img src="web_6.png" alt="Revize Formu" width="400">
+<img src="web_5.png" alt="Veri Güncelleme 1" width="400"> <img src="web_6.png" alt="Veri Güncelleme 2" width="400">
 
 ### 4. Veri Silme
-<img src="web_4.png" alt="Silme Onayı" width="400"> <img src="web_8.png" alt="Silme Sonrası Boş Liste" width="400">
+<img src="web_7.png" alt="Veri Silme 1" width="400"> <img src="web_8.png" alt="Veri Silme 2" width="400">
 
 ## 🛠 Kurulum (Localhost)
 

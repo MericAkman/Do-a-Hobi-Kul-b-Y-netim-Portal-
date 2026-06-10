@@ -2,7 +2,7 @@
 
 
 
-**PHP ile sıfırdan bir web uygulaması geliştiriyorum. Veritabanı bağlantısı için mysqli fonksiyonlarını mı yoksa PDO mimarisini mi tercih etmeliyim? Güvenlik ve performans açısından farkları nelerdir?**
+***PHP ile sıfırdan bir web uygulaması geliştiriyorum. Veritabanı bağlantısı için mysqli fonksiyonlarını mı yoksa PDO mimarisini mi tercih etmeliyim? Güvenlik ve performans açısından farkları nelerdir?**
 
 Yeni bir PHP web uygulaması geliştirmeye başlamanız harika! Veritabanı mimarisini en başından doğru kurgulamayı düşünmek, projenizin geleceği için çok kritik ve doğru bir adım.
 
@@ -40,7 +40,7 @@ Modern PHP ekosisteminde endüstri standardı PDO'dur. Güvenli, esnek ve gelece
 
 Veritabanı mimarisini tasarlarken projenin geri kalanı için herhangi bir framework (örneğin Laravel veya Symfony) kullanmayı düşünüyor musunuz, yoksa tamamen "saf" (core) PHP ile mi ilerleyeceksiniz?
 
-**Kullanıcı şifrelerini veritabanına düz metin (plain text) olarak kaydetmek istemiyorum. Eski MD5 yöntemi yerine PHP'de şifreleri kriptolamak için kullanılabilecek en güncel ve güvenli fonksiyon nedir?
+***Kullanıcı şifrelerini veritabanına düz metin (plain text) olarak kaydetmek istemiyorum. Eski MD5 yöntemi yerine PHP'de şifreleri kriptolamak için kullanılabilecek en güncel ve güvenli fonksiyon nedir?
 
 Harika bir karar! MD5, SHA1 gibi eski nesil özetleme (hashing) algoritmalarını arkanızda bırakmak, uygulamanızın güvenliği için atacağınız en kritik adımlardan biridir. MD5 gibi eski yöntemler günümüzde modern bilgisayarlar tarafından saniyeler içinde kırılabiliyor.
 
@@ -83,7 +83,7 @@ Mimari İpucu: Veritabanınızdaki şifre sütununun (örneğin password) veri t
 
 PDO ile veritabanı altyapınızı hazırladınız ve şifreleri de en güncel standartlarla koruma altına aldınız. Peki, kullanıcı password_verify() aşamasını başarıyla geçtikten sonra sitede gezinirken oturumlarını (session) güvenli bir şekilde yönetmek için nasıl bir strateji kurguladınız?
 
-**Form üzerinden veritabanına veri eklerken SQL Injection saldırılarından korunmak için PDO tarafında Prepared Statements (Hazırlanmış İfadeler) mantığını nasıl kullanabilirim? Örnek bir mantık açıklar mısın?**
+***Form üzerinden veritabanına veri eklerken SQL Injection saldırılarından korunmak için PDO tarafında Prepared Statements (Hazırlanmış İfadeler) mantığını nasıl kullanabilirim? Örnek bir mantık açıklar mısın?**
 
 PDO tarafında Prepared Statements (Hazırlanmış İfadeler) kullanmak, SQL Injection saldırılarını engellemenin en kesin ve modern yoludur.
 
@@ -211,7 +211,7 @@ Eğer sitede genel olarak Bootstrap renkleri kalsın ama sadece belli yerlerde (
 
 Bootstrap tarafında bu tarz özelleştirmeler yaparken klasik bir style.css dosyası üzerinden mi ilerliyorsunuz, yoksa projenin ilerleyen aşamalarında renkleri çok daha köklü değiştirebilmek için SASS (SCSS) gibi bir CSS ön-işlemcisi kullanmayı düşündünüz mü?
 
-**Kodlarımı GitHub'a yükleyeceğim ancak config.php dosyamda canlı sunucumun ve veritabanımın IP adresleri, şifreleri yazıyor. Bu dosyayı GitHub'a yüklenmekten nasıl koruyabilirim? .gitignore dosyasının çalışma mantığı nedir?**
+***Kodlarımı GitHub'a yükleyeceğim ancak config.php dosyamda canlı sunucumun ve veritabanımın IP adresleri, şifreleri yazıyor. Bu dosyayı GitHub'a yüklenmekten nasıl koruyabilirim? .gitignore dosyasının çalışma mantığı nedir?**
 
 Harika bir güvenlik farkındalığı! Veritabanı şifreleri, API anahtarları veya sunucu IP'leri gibi hassas bilgileri (credentials) GitHub gibi platformlara yüklememek, profesyonel yazılım geliştirmenin en değişmez kurallarından biridir.
 

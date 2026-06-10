@@ -35,14 +35,17 @@ Veritabanımızda iki ilişkisel tablo bulunmaktadır:
 
 ## 🖼 Arayüz Görselleri (Galeri)
 
-### 1. Kimlik Doğrulama (Authentication)
+### 1. Sisteme Giriş
 <img src="web_1.png" alt="Sisteme Gir" width="400"> <img src="web_2.png" alt="Yeni Üye Ol" width="400">
 
-### 2. Yönetim Paneli (Dashboard)
-<img src="web_3.png" alt="Faaliyet Portalı - Liste" width="400"> <img src="web_4.png" alt="Silme Onayı" width="400"> <img src="web_8.png" alt="Boş Liste Durumu" width="400">
+### 2. Veri Girişi
+<img src="web_5.png" alt="Yeni Faaliyet Formu" width="400"> <img src="web_7.png" alt="Başarı Bildirimi" width="400"> <img src="web_3.png" alt="Faaliyet Portalı - Liste" width="400">
 
-### 3. Faaliyet Yönetimi (Activity Management)
-<img src="web_5.png" alt="Yeni Faaliyet Formu" width="400"> <img src="web_6.png" alt="Revize Formu" width="400"> <img src="web_7.png" alt="Başarı Bildirimi" width="400">
+### 3. Veri Güncelleme
+<img src="web_6.png" alt="Revize Formu" width="400">
+
+### 4. Veri Silme
+<img src="web_4.png" alt="Silme Onayı" width="400"> <img src="web_8.png" alt="Silme Sonrası Boş Liste" width="400">
 
 ## 🛠 Kurulum (Localhost)
 
